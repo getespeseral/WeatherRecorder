@@ -1,4 +1,25 @@
 {
+    "2025-03-01": {
+        "temperature": 24.5,
+        "humidity": 75.0,
+        "Wind_Speed": 10.0,
+        "Pressure": 101000.0,
+        "Dew_Point": 21.0
+    },
+    "2025-03-02": {
+        "temperature": 26.0,
+        "humidity": 80.0,
+        "Wind_Speed": 11.0,
+        "Pressure": 101000.0,
+        "Dew_Point": 23.0
+    },
+    "2025-03-03": {
+        "temperature": 27.8,
+        "humidity": 70.0,
+        "Wind_Speed": 13.0,
+        "Pressure": 101000.0,
+        "Dew_Point": 24.0
+    },
     "2025-04-01": {
         "temperature": 27.0,
         "humidity": 80.0,
